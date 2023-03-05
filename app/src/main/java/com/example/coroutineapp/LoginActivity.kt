@@ -47,4 +47,5 @@ fun CoroutineApp(
     viewModel: LoginViewModel
 ) {
 
+    viewModel.getUserInfo("jinkweonko", "123123")
 }
