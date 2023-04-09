@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104945800012",
+    "project_id": "coroutine-app",
+    "storage_bucket": "coroutine-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104945800012:android:3478ccb4c2ba2755bb35e9",
+        "android_client_info": {
+          "package_name": "com.example.coroutineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104945800012-38h87dmnss58f9f4vj1ibmnn20178svc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCthFhI7_XVzfq2kMcoM41CdC5OunPZuyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104945800012-38h87dmnss58f9f4vj1ibmnn20178svc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
